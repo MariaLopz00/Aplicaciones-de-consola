@@ -13,7 +13,7 @@ Esta es una aplicación de consola simple construida con TypeScript que ofrece v
 - Contador de Palabras
 
 
-# Ejecuta la aplicación de consola:
+## Ejecuta la aplicación de consola:
 - npx ts-node src/main.ts
 
 
